@@ -1,6 +1,7 @@
 streamlit
-feedparser
-vaderSentiment
-numpy>=1.26.0,<2.0.0
-pandas==2.2.3
+yfinance
+pandas
 pandas_ta
+plotly
+nltk
+feedparser
