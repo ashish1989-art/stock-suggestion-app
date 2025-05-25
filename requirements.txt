@@ -1,8 +1,10 @@
-streamlit
 yfinance
-pandas
-pandas_ta
 plotly
 nltk
 feedparser
-setuptools
+setuptools==68.2.2
+numpy>=1.26.0,<2.0.0
+pandas==2.2.3
+pandas_ta
+streamlit
+vaderSentiment
