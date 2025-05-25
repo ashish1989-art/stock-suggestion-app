@@ -7,4 +7,4 @@ nltk==3.8.1
 requests==2.31.0
 feedparser
 setuptools==68.2.2
-numpy==1.24.4  # Important fix for pandas_ta compatibility
+numpy==1.24.4
