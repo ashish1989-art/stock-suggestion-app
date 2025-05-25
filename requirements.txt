@@ -5,6 +5,5 @@ pandas_ta
 plotly
 nltk
 feedparser
-requests
 setuptools
 numpy==1.24.4
